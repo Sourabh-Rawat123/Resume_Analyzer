@@ -15,4 +15,4 @@ def analyze_resume(system_prompt, user_prompt):
          ),
          
      )
-    return response[0].text
+    return response
